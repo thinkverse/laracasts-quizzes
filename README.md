@@ -11,3 +11,7 @@ List of [Laracasts](https://laracasts.com/) quizzes.
 ## Contribute
 
 Did a miss a quiz? Feel free to open a PR and add it. 👍
+
+---
+
+This repository is not affiliated with Laracasts.com
