@@ -1,6 +1,6 @@
 # Laracasts Quizzes
 
-List of [Laracasts](https://laracasts.com/) quizzes.
+List of quizzes found on [Laracasts](https://laracasts.com/).
 
 ## Quizzes
 
