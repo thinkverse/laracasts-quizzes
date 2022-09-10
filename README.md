@@ -4,9 +4,9 @@ List of [Laracasts](https://laracasts.com/) quizzes.
 
 ## Quizzes
 
-- [Laravel from Scratch Quiz](https://laracasts.com/quizzes/laravel-from-scratch-quiz)
-- [Object Oriented Principles in PHP](https://laracasts.com/quizzes/object-oriented-principles-in-php-quiz)
-- [Ready for PHP 8](https://laracasts.com/quizzes/php-8-quiz)
+- [Laravel from Scratch Quiz](https://laracasts.com/quizzes/laravel-from-scratch-quiz) (Beginner)
+- [Object-Oriented Principles in PHP Quiz](https://laracasts.com/quizzes/object-oriented-principles-in-php-quiz) (Beginner)
+- [Ready for PHP 8 Quiz](https://laracasts.com/quizzes/php-8-quiz) (Intermediate)
 
 ## Contribute
 
